@@ -1,0 +1,11 @@
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\bin\Debug\Space_War.exe.config
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\bin\Debug\Space_War.exe
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\bin\Debug\Space_War.pdb
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.csproj.AssemblyReference.cache
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.Properties.Resources.resources
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.csproj.GenerateResource.cache
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.csproj.CoreCompileInputs.cache
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.exe
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.pdb
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.exe.config
+C:\Users\uncle\OneDrive\Pictures\Documents\Space war\Space_War\Space_War\obj\Debug\Space_War.Wind.resources
